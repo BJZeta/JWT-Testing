@@ -20,6 +20,6 @@
   "homepage": "https://github.com/BJZeta/JWT-Testing#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "jsonwebtoken": "^8.5.1"
+    "jsonwebtoken": "^9.0.0"
   }
 }
